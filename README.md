@@ -1,4 +1,6 @@
 # Keras VDSR
+
+## Overview
 An implementation of the Super Resolution CNN proposed in:
 
 Kim, Jiwon, Jung Kwon Lee, and Kyoung Mu Lee. "Accurate image super-resolution using very deep convolutional networks." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016.
